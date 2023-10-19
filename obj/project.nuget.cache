@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzXVHWbjSinq3fCdXXQUV7PqHaO70gv7sDugeWETKY9GWpsZyQMcL+xbF4zZf7NOq9gDOLys5LrTo2vc3gTK5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lamya\\Documents\\college\\CSE\\CSE-210\\PokemonTeam\\unit06-game\\unit06-game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lamya\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\lamya\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
